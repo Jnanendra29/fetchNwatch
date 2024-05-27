@@ -12,5 +12,6 @@ Fetched data from an API and showed as per the desirable content asked in an UI 
 8. Create an environmental variable as COMPASS_URI = mongodb://127.0.0.1:27017/taskManagement
 9. Create another environmental variable as PORT = 8060
 10. Use npm start" in project directory to run backend
-11. Use "npm start" in frontend directory to run frontend
-12. And you are all set..
+11. Use postman or just the browser and hit the "https://localhost:8060/" end-point to get the data from api and store it in the database(Do this only ONE-TIME)
+12. Use "npm start" in frontend directory to run frontend
+13. And you are all set..
